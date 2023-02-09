@@ -1,0 +1,20 @@
+*{
+  color: blue;
+}
+.size 
+{
+  font-size: 32px; 
+}
+.caps
+{
+   text-transform: uppercase;     
+}
+.mainText
+{
+  text-decoration: underline
+}
+.shadow
+{
+  text-shadow: 5px 6px 3px red;
+}
+  
